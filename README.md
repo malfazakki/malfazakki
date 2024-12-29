@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [NIZOM POS KASIR](https://pos.nizom.id/)
 
-- 🌱 I’m currently learning **PHP Laravel, Golang, Flutter**
+- 🌱 I’m currently learning **Laravel**
 
 - 🤝 I’m looking for help with **Backend Development and Database Management System**
 
