@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Al Fatih Muzakki</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate Software Engineer from Indonesia</h3>
 
-- 🔭 I’m currently working on [NIZOM POS KASIR](https://pos.nizom.id/)
+- 🔭 I’m currently study at [Pondok IT Indonesia](https://pondokit.com/)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Golang & Nuxt JS**
 
 - 🤝 I’m looking for help with **Backend Development and Database Management System**
 
