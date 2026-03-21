@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Al Fatih Muzakki</h1>
 <h3 align="center">A passionate Software Engineer from Indonesia</h3>
 
-- 🔭 I’m currently study at [Pondok IT Indonesia](https://pondokit.com/)
-
-- 🌱 I’m currently learning **Golang & Nuxt JS**
-
-- 🤝 I’m looking for help with **Backend Development and Database Management System**
-
-- 💬 Ask me about **Frontend Development**
-
 - 📫 How to reach me **malfazakki@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
