@@ -1,18 +1,60 @@
-<h1 align="center">Hi 👋, I'm Muhammad Al Fatih Muzakki</h1>
-<h3 align="center">A passionate Software Engineer from Indonesia</h3>
+<div align="center">
+  <h1>Hi, I'm Muhammad Al Fatih Muzakki 👋</h1>
+  <p><strong>Chief Technology Officer | Full-Stack Software Engineer | Technical Educator</strong></p>
+  <p>Building scalable systems and leading high-performance engineering teams with a focus on modern JavaScript ecosystems and IoT/AI integration.</p>
+</div>
 
-- 📫 How to reach me **malfazakki@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🚀 About Me
+
+Experienced technology leader with over 15 years in the software industry. I specialize in architecting robust enterprise solutions (SaaS/ERP), mentoring developers, and bridging the gap between business vision and technical execution.
+
+- 🔭 **Current Focus**: Developing **Manajerku** (SaaS ERP).
+- 🏫 **Giving Back**: Designing curriculum and teaching Web Development for the next generation of engineers.
+- ⚡ **Philosophy**: Clean code, automated workflows, and a growth mindset.
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+#### **Core Architecture & Frameworks**
 <p align="left">
-<a href="https://linkedin.com/in/muhammad-al-fatih-muzakki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-al-fatih-muzakki" height="30" width="40" /></a>
-<a href="https://instagram.com/alfatihmuzakki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alfatihmuzakki" height="30" width="40" /></a>
-<a href="https://discord.gg/malfazakki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="malfazakki" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+#### **Infrastructure & Tooling**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
-<br>
+#### **Other Skills**
+- **Languages**: Go, Java, PHP, C++, JavaScript
+- **Mobile**: Flutter, React Native
+- **Tools**: TanStack, Turborepo, pnpm, MySQL, Figma, Postman
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malfazakki&show_icons=true&locale=en&layout=compact" alt="malfazakki" /></p>
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=malfazakki&show_icons=true&theme=transparent&hide_border=true&title_color=3178C6&text_color=555&icon_color=3178C6" alt="General Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malfazakki&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=3178C6&text_color=555" alt="Top Languages" height="180" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="mailto:malfazakki@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/muhammad-al-fatih-muzakki"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/alfatihmuzakki"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://discord.gg/malfazakki"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
