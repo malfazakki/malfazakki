@@ -44,7 +44,6 @@ Experienced technology leader with over 15 years in the software industry. I spe
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malfazakki&show_icons=true&theme=dark&hide_border=false&title_color=3178C6&icon_color=3178C6" alt="General Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malfazakki&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false&title_color=3178C6" alt="Top Languages" height="180" />
 </p>
 
