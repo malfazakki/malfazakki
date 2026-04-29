@@ -10,7 +10,7 @@
 
 Experienced technology leader with over 15 years in the software industry. I specialize in architecting robust enterprise solutions (SaaS/ERP), mentoring developers, and bridging the gap between business vision and technical execution.
 
-- 🔭 **Current Focus**: Developing **Manajerku** (SaaS ERP).
+- 🔭 **Current Focus**: [**Manajerku**](https://app.manajerku.com/) (SaaS ERP).
 - 🏫 **Giving Back**: Designing curriculum and teaching Web Development for the next generation of engineers.
 - ⚡ **Philosophy**: Clean code, automated workflows, and a growth mindset.
 
@@ -44,12 +44,11 @@ Experienced technology leader with over 15 years in the software industry. I spe
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malfazakki&show_icons=true&theme=transparent&hide_border=true&title_color=3178C6&text_color=555&icon_color=3178C6" alt="General Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malfazakki&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=3178C6&text_color=555" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=malfazakki&show_icons=true&theme=dark&hide_border=false&title_color=3178C6&icon_color=3178C6" alt="General Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malfazakki&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false&title_color=3178C6" alt="Top Languages" height="180" />
 </p>
 
 ---
-
 ### 📫 Connect with Me
 
 <p align="left">
