@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-Experienced technology leader with over 15 years in the software industry. I specialize in architecting robust enterprise solutions (SaaS/ERP), mentoring developers, and bridging the gap between business vision and technical execution.
+Experienced technology leader with over 3 years in the software industry. I specialize in architecting robust enterprise solutions (SaaS/ERP), mentoring developers, and bridging the gap between business vision and technical execution.
 
 - 🔭 **Current Focus**: [**Manajerku**](https://app.manajerku.com/) (SaaS ERP).
 - 🏫 **Giving Back**: Designing curriculum and teaching Web Development for the next generation of engineers.
